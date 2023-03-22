@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante de Python e PostgreSQL<br><br>Atualmente trabalho como pessoa jurídica como Analista Comercial<br><br>Procuro me desenvolver na área!<br><br>Tenho 22 anos, 2 Anos de Auxiliar de compras CLT e atualmente trabalho como Analista Comercial.
+Sou Estudante de Python e PostgreSQL<br><br>Atualmente trabalho como pessoa jurídica como Analista Comercial PJ<br><br>Procuro me desenvolver na área!<br><br>Tenho 22 anos, 2 Anos de Auxiliar de compras CLT e atualmente trabalho como Analista Comercial.
 
 
 ## 🌐 Socials:
